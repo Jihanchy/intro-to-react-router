@@ -1,0 +1,112 @@
+[
+    {
+        "playerId": 1,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/wC14yHH/shakib-al-hasan.webp",
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm orthodox",
+        "biddingPrice": 250000
+    },
+    {
+        "playerId": 2,
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/xFwSx5M/maxweell-glen.jpg",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 300000
+    },
+    {
+        "playerId": 3,
+        "name": "Andre Russell",
+        "country": "West Indies",
+        "image": "https://i.ibb.co.com/cT3PKn5/Russell.jpg",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 180000
+    },
+    {
+        "playerId": 4,
+        "name": "Ravichandra Ashwin",
+        "country": "India",
+        "image": "https://i.ibb.co.com/7km6M1J/Ashwin.webp",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 200000
+    },
+    {
+        "playerId": 5,
+        "name": "David Malan",
+        "country": "England",
+        "image": "https://i.ibb.co.com/zbK4ZnS/dawid-malan-retires-from-international-cricket-sportstiger-1724835668395-original.webp",
+        "role": "Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 320000
+    },
+    {
+        "playerId": 6,
+        "name": "Henrich Klassen",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/cvqXyFp/klassen.jpg",
+        "role": "Wicketkeeper",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 370000
+    },
+    {
+        "playerId": 7,
+        "name": "Travis Head",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/sV3JSvr/head.jpg",
+        "role": "Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 400000
+    },
+    {
+        "playerId": 8,
+        "name": "Mustafizur Rahman",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/sRC9wFv/musta.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": 150000
+    },
+    {
+        "playerId": 9,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co.com/QbWjqmK/Babar-Azam-1-1568x1277.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 190000
+    },
+    {
+        "playerId": 10,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/hB0g15X/kane-wilkaiams.webp",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 260000
+    },
+    {
+        "playerId": 11,
+        "name": "Faf Du Plessis",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/HDRmMBB/faf-du-plessis-cric-today-1.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 130000
+    }
+]
