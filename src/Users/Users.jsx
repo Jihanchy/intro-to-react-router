@@ -8,7 +8,7 @@ const Users = () => {
         <div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
                 {
-                    users.map(user => <User key={user.playerId} user={user}></User>)
+                    users.map((user,index) => <User key={index} user={user}></User>)
                 }
             </div>
         </div>
